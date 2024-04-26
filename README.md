@@ -1,2 +1,2 @@
-# CodeSoft3
+# CodSoft3
 Calculator
